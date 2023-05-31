@@ -1,0 +1,12 @@
+/Users/juliacoelho/Desktop/imcClasse/bin/Debug/netcoreapp3.1/imcClasse.deps.json
+/Users/juliacoelho/Desktop/imcClasse/bin/Debug/netcoreapp3.1/imcClasse.runtimeconfig.json
+/Users/juliacoelho/Desktop/imcClasse/bin/Debug/netcoreapp3.1/imcClasse.runtimeconfig.dev.json
+/Users/juliacoelho/Desktop/imcClasse/bin/Debug/netcoreapp3.1/imcClasse.dll
+/Users/juliacoelho/Desktop/imcClasse/bin/Debug/netcoreapp3.1/imcClasse.pdb
+/Users/juliacoelho/Desktop/imcClasse/obj/Debug/netcoreapp3.1/imcClasse.csprojAssemblyReference.cache
+/Users/juliacoelho/Desktop/imcClasse/obj/Debug/netcoreapp3.1/imcClasse.AssemblyInfoInputs.cache
+/Users/juliacoelho/Desktop/imcClasse/obj/Debug/netcoreapp3.1/imcClasse.AssemblyInfo.cs
+/Users/juliacoelho/Desktop/imcClasse/obj/Debug/netcoreapp3.1/imcClasse.csproj.CoreCompileInputs.cache
+/Users/juliacoelho/Desktop/imcClasse/obj/Debug/netcoreapp3.1/imcClasse.dll
+/Users/juliacoelho/Desktop/imcClasse/obj/Debug/netcoreapp3.1/imcClasse.pdb
+/Users/juliacoelho/Desktop/imcClasse/obj/Debug/netcoreapp3.1/imcClasse.genruntimeconfig.cache
